@@ -1,2 +1,7 @@
-# demo-estudio-juridico-vera-asociados
-Demo web para Estudio Jurídico Vera &amp; Asociados — diseñada por eterlab.
+# Estudio Jurídico Vera & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
